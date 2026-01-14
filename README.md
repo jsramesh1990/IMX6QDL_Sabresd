@@ -8,18 +8,6 @@ A dual-implementation educational project that simulates the boot LED sequence o
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
-##  Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Boot LED Sequence](#boot-led-sequence)
-- [Project Structure](#project-structure)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Detailed Workflow](#detailed-workflow)
-- [Build Instructions](#build-instructions)
-- [Contributing](#contributing)
-- [License](#license)
-
 ##  Overview
 
 This project provides a **visual simulation** of the 16-stage boot process used in the **i.MX6QDL Sabre-SD** development board. It demonstrates how embedded systems use LED indicators to show boot progression, making it an excellent educational tool for:
@@ -338,9 +326,6 @@ This project demonstrates:
 | GUI window doesn't open | Check DISPLAY variable, try `export DISPLAY=:0` |
 | Program runs too fast/slow | Use `-s` option to adjust speed |
 
-##  License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ##  Acknowledgments
 
