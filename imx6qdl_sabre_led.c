@@ -43,7 +43,7 @@ void simulate_boot() {
     led_on_range(0, 0);
     sleep(1);
 
-    // U-Boot stage
+    // U-Boot stage - init stage
     printf("\n[U-BOOT] LEDs 1-4 ON\n");
     led_on_range(1, 4);
     sleep(1);
@@ -53,7 +53,7 @@ void simulate_boot() {
     led_on_range(5, 8);
     sleep(1);
 
-    // RootFS stage
+    // RootFS stage - final stage
     printf("\n[ROOTFS] LEDs 9-11 ON\n");
     led_on_range(9, 11);
     sleep(1);
