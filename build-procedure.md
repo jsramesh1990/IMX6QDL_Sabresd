@@ -298,12 +298,6 @@ Examples:
 
 ---
 
-# 14. Official Documentation
-
-* [NXP i.MX Linux BSP Guide](https://www.nxp.com/design/design-center/software/embedded-software/i-mx-software-and-development-tools/i-mx-linux-software:IMXLINUX?utm_source=chatgpt.com)
-* [U-Boot mx6sabresd Documentation](https://docs.u-boot.org/en/latest/board/nxp/mx6sabresd.html?utm_source=chatgpt.com)
-* [NXP meta-imx Repository](https://github.com/nxp-imx/meta-imx?utm_source=chatgpt.com)
-
 If you want, I can also provide:
 
 * complete Yocto build script
@@ -317,6 +311,3 @@ If you want, I can also provide:
 * Qt/Wayland graphics enablement
 * Dockerized build environment for i.MX6 Yocto builds
 
-[1]: https://www.nxp.com/document/guide/getting-started-with-i-mx-6-solox-sabre%3AGS-RD-IMX6SX-SABRE?utm_source=chatgpt.com "Getting Started with i.MX 6 SoloX SABRE | NXP Semiconductors"
-[2]: https://www.nxp.com/document/guide/getting-started-with-i-mx-6quadplus%3AGS-RD-IMX6QP-SABRE?utm_source=chatgpt.com "Getting Started with i.MX 6QuadPlus | NXP Semiconductors"
-[3]: https://docs.u-boot.org/en/latest/board/nxp/mx6sabresd.html?utm_source=chatgpt.com "mx6sabresd — Das U-Boot unknown version documentation"
