@@ -8,7 +8,6 @@ A dual-implementation educational project that simulates the boot LED sequence o
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
-```
 
 ### Embedded Linux Boot Process
 
@@ -18,7 +17,6 @@ The following animation demonstrates the Linux boot sequence:
 
 ![Embedded Linux Boot Process](./images/embedded-linux-boot.gif)
 
-```
 
 ##  Overview
 
