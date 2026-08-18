@@ -8,6 +8,18 @@ A dual-implementation educational project that simulates the boot LED sequence o
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
+```
+
+### Embedded Linux Boot Process
+
+The following animation demonstrates the Linux boot sequence:
+
+**Power ON → U-Boot → Linux Kernel → Root Filesystem → Peripherals → Login → System Ready**
+
+![Embedded Linux Boot Process](./images/embedded-linux-boot.gif)
+
+```
+
 ##  Overview
 
 This project provides a **visual simulation** of the 16-stage boot process used in the **i.MX6QDL Sabre-SD** development board. It demonstrates how embedded systems use LED indicators to show boot progression, making it an excellent educational tool for:
